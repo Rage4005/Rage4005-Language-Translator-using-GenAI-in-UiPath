@@ -1,0 +1,217 @@
+{
+  "BaseUrl": "https://cloud.uipath.com:443/armanlcvekqd/studio_",
+  "Snapshot": {
+    "Id": "1b65d480-5e0a-44c6-b700-e05cda90e760",
+    "ExpressionLanguage": "VisualBasic",
+    "ProjectType": "Process",
+    "Name": "language translator2",
+    "Description": "Blank Process",
+    "LastModifiedTime": "2025-01-25T18:19:47.1279773Z",
+    "CreationTime": "2025-01-25T18:19:47.1279773Z",
+    "UserId": "d65baafd-691e-4d77-834c-346c196be0f2",
+    "RootFolder": {
+      "Name": "1b65d480-5e0a-44c6-b700-e05cda90e760",
+      "Folders": [
+        {
+          "Id": "e7885db7-feb7-4858-8993-d5b26a5709f2",
+          "Name": ".tmh",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "4a7161ad-37c2-409a-bf11-6c7615b9a645",
+              "Name": "config.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "444a683b-07fe-47b2-9889-36e80d9729ec",
+          "Name": ".entities",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "EntitiesBundle.bCyXbdK463X9wLijfPbfPwkUPx0ohj7cPQMTMNq3g.zip",
+              "Name": "EntitiesBundle.bCyXbdK463X9wLijfPbfPwkUPx0ohj7cPQMTMNq3g.zip",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "80994e88-ef36-4ccb-9de2-c066c4839dcb",
+          "Name": ".objects",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "14fbfc1b-79b4-4c7d-a87f-ac18d67518e6",
+              "Name": ".type",
+              "IsMain": false
+            },
+            {
+              "Id": "4d7a4942-5345-410a-aa50-35dd94683e47",
+              "Name": ".metadata",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "eba909f1-9636-41f2-946c-6fb308da5594",
+          "Name": ".project",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "5aa095d9-b609-409a-932b-d621fd4b3afb",
+              "Name": "design.json",
+              "IsMain": false
+            },
+            {
+              "Id": "3958874d-8295-4c33-9e29-008a50d9a55f",
+              "Name": "PackageBindingsMetadata.json",
+              "IsMain": false
+            },
+            {
+              "Id": "1cba8ffd-0b72-43ce-9061-56dc2c05ba8b",
+              "Name": "JitCustomTypes.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "082e49e0-5e06-40da-b209-1a46e13fc80a",
+          "Name": ".local",
+          "Folders": [
+            {
+              "Id": "5b03d208-c076-4da5-945a-b0d7fb52975c",
+              "Name": "sw-import",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "45146067-2e07-4304-8b51-64cbc0b9fa7c",
+                  "Name": "JitCustomTypesSchema.json",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        },
+        {
+          "Id": "b123ef12-0faa-4e2d-b5de-433d2662b95f",
+          "Name": ".settings",
+          "Folders": [
+            {
+              "Id": "72097a8c-160c-4702-934d-dc684693b4fe",
+              "Name": "Debug",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "c57cb318-ef8d-4bcd-a47b-3a610d287b5d",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "5f8b5167-ca92-451f-af24-ecdc89d855b4",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "e4d7020d-8349-48c7-a938-02dcfea0bc22",
+              "Name": "Release",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "0d0736bf-9717-4673-b636-6575f301cb67",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "1e302dab-0f87-432a-a8ac-9cde462d9c92",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "849699c2-a38e-476e-b5c9-42e0f135aa57",
+              "Name": "Design",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "046b5ba4-3e52-4681-b929-6f1cbe18a123",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        }
+      ],
+      "Files": [
+        {
+          "Id": "eec1083f-d950-4377-a0fc-e9bf1316e777",
+          "Name": "Main.xaml",
+          "IsMain": true
+        },
+        {
+          "Id": "1ba5bd39-0b45-4548-b599-81db1cab751c",
+          "Name": "project.json",
+          "IsMain": false
+        }
+      ]
+    },
+    "Dependencies": [
+      {
+        "Name": "UiPath.Excel.Activities",
+        "Version": "2.24.4"
+      },
+      {
+        "Name": "UiPath.IntegrationService.Activities",
+        "Version": "1.11.0"
+      },
+      {
+        "Name": "UiPath.System.Activities",
+        "Version": "[24.10.7]"
+      }
+    ],
+    "HasTrigger": false,
+    "DisableAutoUpdate": false
+  },
+  "OriginalFilesHash": {
+    "Main.xaml": "3+ie3wBWaby/UfnFhgMC5BzOZUen8hNI4tpGRbwGJks=",
+    ".project/PackageBindingsMetadata.json": "jz6Jv9S3hoAUkpBFICkz/AJMKHCcKPePs/serhxVpGE=",
+    ".settings/Debug/settings-9e9290da.json": "7PjBQcYPpDS7UhN/HydlT7QCRIsBYnPNtHuFFBOcfg8=",
+    ".tmh/config.json": "Tk6QDUUsqtifkyIEMEjvqL300ZUpxaIp15qlWlZ+18w=",
+    "project.json": "nu3NdThuSXHgbLlL2EIzFKBJw+QA7st8Yf9CUZnvYds=",
+    ".settings/Design/settings-afad0842.json": "jjBbv/WXwDPEhGnbSVQxlI3fuMaxR42abIF+4Qju1ok=",
+    ".settings/Debug/settings-afad0842.json": "o6cyP0e4lygMz+a1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    ".project/JitCustomTypes.json": "nHuw3SqFoF1LFe2ueEYxZnsbNY+hZr58TX0sMuGPViU=",
+    ".settings/Release/settings-9e9290da.json": "7PjBQcYPpDS7UhN/HydlT7QCRIsBYnPNtHuFFBOcfg8=",
+    ".project/JitCustomTypesSchema.json": "WcWasN1UN2o7fzatYXHFIfvwjviQUEpIqqBE6YusZb4=",
+    ".objects/.metadata": "/1AWTFTKh58V00ER/54gk9s+dJfEpix0pSUm/sEo3dU=",
+    ".settings/Release/settings-afad0842.json": "o6cyP0e4lygMz+a1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    ".project/design.json": "tpigGYm5XaG029JmRVNbleDrxKui0uJxWXFRRvAf2I4=",
+    ".objects/.type": "3CCz1dLN34L60zKCHKXppO/c7eSic6oZPStJW9zJKCU="
+  },
+  "StudioWebFiles": [
+    "Main.xaml",
+    "project.json",
+    ".objects/.metadata",
+    ".objects/.type",
+    ".project/design.json",
+    ".project/JitCustomTypes.json",
+    ".project/JitCustomTypesSchema.json",
+    ".project/PackageBindingsMetadata.json",
+    ".settings/Debug/settings-9e9290da.json",
+    ".settings/Debug/settings-afad0842.json",
+    ".settings/Design/settings-afad0842.json",
+    ".settings/Release/settings-9e9290da.json",
+    ".settings/Release/settings-afad0842.json",
+    ".tmh/config.json"
+  ],
+  "LocalProjectPath": "C:\\Users\\arman\\OneDrive\\Documents\\UiPath\\language translator2",
+  "ProjectId": "1b65d480-5e0a-44c6-b700-e05cda90e760",
+  "ProjectName": "language translator2",
+  "Description": "Blank Process"
+}

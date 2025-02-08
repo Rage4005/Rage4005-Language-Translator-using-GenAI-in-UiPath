@@ -1,0 +1,83 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "CustomEntities",
+      "bundleOptions": {
+        "hash": "LpjiVaXI9f/KiHj7kWR6S3beI+x/2ajItrFDN9eXWbOFcZz6tOQXw4GStBAxFcc9A7WVqcUH9nXRgvsOUc9QFw==",
+        "bundleName": "C87D45D9450_languageminus_signdetection_Create",
+        "entitiesBundle": {
+          "Types": {
+            "languageminus_signdetection_Create": {
+              "name": "languageminus_signdetection_Create",
+              "properties": [
+                {
+                  "name": "confidenceScore",
+                  "type": {
+                    "ClrType": "System.Nullable`1[[System.Int64, System.Private.CoreLib]], System.Private.CoreLib"
+                  }
+                },
+                {
+                  "name": "language",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  },
+                  "attributes": {
+                    "values": [
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.CategoryAttribute, System.ComponentModel.Primitives"
+                        },
+                        "constructorArguments": [
+                          {
+                            "Value": "\"Simplified\"",
+                            "type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "namedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.DataAnnotations.DisplayAttribute, System.ComponentModel.Annotations"
+                        },
+                        "constructorArguments": [],
+                        "namedArguments": [
+                          {
+                            "name": "Order",
+                            "value": {
+                              "Value": "1",
+                              "type": {
+                                "ClrType": "System.Int32, System.Private.CoreLib"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "languageCode",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  }
+                }
+              ],
+              "baseType": null
+            }
+          },
+          "version": 1
+        }
+      },
+      "entityAssemblyKey": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.C87D45D9450_languageminus_signdetection_Create",
+        "hash": "THBqaVZhWEk5Zi9LaUhqN2tXUjZTM2JlSSt4LzJhakl0ckZETjllWFdiT0ZjWno2dE9RWHc0R1N0QkF4RmNjOUE3V1ZxY1VIOW5YUmd2c09VYzlRRnc9PQ",
+        "assemblyName": "C87D45D9450_language.CJQgHcysSF1T80f23U9d641"
+      }
+    }
+  ]
+}
